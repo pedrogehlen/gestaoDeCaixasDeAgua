@@ -26,35 +26,38 @@ Se as instalações mudarem de pasta, informe `-JavaHome`, `-KotlinHome`
 e `-Driver`. Não há Gradle, frameworks ou bibliotecas novas.
 As únicas dependências de execução são Java, Kotlin e o driver JDBC existente.
 
-## Banco local
+## Configurar o banco de dados
 
-A conexão original foi preservada:
+A pasta `banco` contém somente o arquivo [schema.sql](banco/schema.sql),
+que cria as tabelas e a consulta de saldo em um banco vazio.
 
-- Banco: `caixaDaAgua`, em `localhost:5432`.
-- Usuário: `postgres`.
-- Senha local do trabalho: `masterkey`.
+Para instalar em outro computador pelo pgAdmin:
 
-O banco deste computador foi atualizado em 15/09/2026. **Não execute novamente
-o script de atualização.** Os dois produtos antigos foram preservados com
-estoque inicial zero. Não foram criadas pessoas ou movimentações fictícias
-no banco principal.
-
-Arquivos disponíveis:
-
-- `banco/schema.sql`: criação completa para um banco vazio.
-- `verificacao/atualizar-banco-existente.sql`: registro da atualização já aplicada à estrutura antiga,
-  usada neste computador. Se houver movimentações antigas, interrompe para
-  não inventar pagador, recebedor ou responsável.
-- `verificacao/backup-antes-da-atualizacao.sql`: backup local anterior à mudança.
-
-Em outro computador, crie o banco com o nome exato:
+1. Conecte-se ao PostgreSQL e abra o **Query Tool** no banco `postgres`.
+2. Execute o comando abaixo para criar o banco:
 
 ```sql
 CREATE DATABASE "caixaDaAgua";
 ```
 
-Depois, conectado a esse banco, execute `banco/schema.sql`.
-As aspas na criação preservam as letras maiúsculas do nome.
+3. Atualize a lista de bancos e abra o **Query Tool** no banco `caixaDaAgua`.
+4. Abra o arquivo `banco/schema.sql` e execute seu conteúdo nesse banco.
+5. Confira a configuração em `src/repositorio/ConexaoPostgres.kt`:
+
+- Endereço: `localhost:5432`.
+- Banco: `caixaDaAgua`.
+- Usuário: `postgres`.
+- Senha configurada no projeto: `masterkey`.
+
+Se o PostgreSQL do seu computador usar outra senha, ajuste esse valor no
+arquivo de conexão. As aspas no comando de criação preservam as letras
+maiúsculas do nome do banco.
+
+O script cria a estrutura sem dados de exemplo. Cadastre as pessoas e os
+produtos pelos menus do programa.
+
+**Se o banco já estiver configurado, não execute o `schema.sql` novamente.**
+No computador em que o projeto foi desenvolvido, essa configuração já foi feita.
 
 ## Roteiro para demonstrar
 
@@ -73,17 +76,6 @@ As aspas na criação preservam as letras maiúsculas do nome.
 Digite `:cancelar` em um campo de cadastro/operação para voltar sem salvar.
 Valores monetários aceitam vírgula ou ponto decimal, sem separador de milhar.
 CPF e CNPJ devem conter somente dígitos.
-
-## Verificações
-
-Foram executados testes de compilação, regras e persistência em PostgreSQL.
-Os testes usam o banco separado `revisao1_verificacao_20260915_1835`.
-A cópia da conexão para testes altera somente o nome desse banco; o arquivo
-de conexão do projeto continua apontando para `caixaDaAgua`.
-
-Consulte `verificacao/RELATORIO.md` para resultados e limites.
-Os arquivos em `verificacao` não são parte dos fontes da aplicação.
-Não execute `Verificacao.kt` contra o banco principal.
 
 ## Apresentação
 
