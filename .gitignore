@@ -30,3 +30,9 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### Execução e verificações locais ###
+.execucao/
+verificacao/*.jar
+verificacao/ConexaoPostgresTeste.kt
+verificacao/backup-*.sql

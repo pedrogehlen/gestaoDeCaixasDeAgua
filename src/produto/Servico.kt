@@ -1,28 +1,16 @@
 package produto
 
-import enumeradores.Habilidade
-import enumeradores.Turno
-import pessoas.Cliente
-import pessoas.Instalador
+import enumeradores.StatusServico
 import java.math.BigDecimal
 import java.time.LocalDate
 
-class Servico {
-    var instalador : Instalador = Instalador(
-        nome = "",
-        cpf = "",
-        idade = 0,
-        salario = BigDecimal.ZERO,
-        turno = Turno.NOTURNO,
-        habilidade = Habilidade.INSTALACAO
-    )
-    var preco : String = "0.0"
-    var dataInstalacao : LocalDate = LocalDate.of(1970, 7, 4)
-    var cliente : Cliente = Cliente(
-        nomeCliente = "",
-        cpfCliente = "",
-        idadeCliente = 0,
-        dividasAbertas = false,
-        parcelasAPagar = mutableListOf()
-    )
+class Servico(
+    val clienteId: Int, val caixaId: Int, val dataInstalacao: LocalDate,
+    val preco: BigDecimal, val status: StatusServico = StatusServico.AGENDADO, val id: Int = 0,
+    val funcionarios: MutableList<Int> = mutableListOf()
+) {
+    init {
+        require(clienteId > 0 && caixaId > 0)
+        require(preco > BigDecimal.ZERO) { "O serviço deve ter preço positivo." }
+    }
 }

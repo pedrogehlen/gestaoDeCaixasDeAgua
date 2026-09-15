@@ -1,113 +1,112 @@
 package repositorio
 
 import produto.CaixaDaAgua
-import java.sql.SQLException
+import enumeradores.Cor
+import enumeradores.Material
+import java.sql.PreparedStatement
+import java.sql.ResultSet
+import java.sql.Types
 
-class CRUDCaixaDAgua () : InterfaceJPA<CaixaDaAgua>, ConexaoPostgres(){
-
-
-   override fun salvar(item: CaixaDaAgua){
-        println("Salvando...")
+class CRUDCaixaDAgua : InterfaceJPA<CaixaDaAgua>, ConexaoPostgres() {
+    override fun salvar(item: CaixaDaAgua) {
+        var stmt: PreparedStatement? = null
+        var dimensao: java.sql.Array? = null
         try {
-            conectar() //abre a conexão com o banco
-            val sql = "INSERT INTO caixa_da_agua " +
-                    "(marca, modelo, dimensao, cor, " +
-                    "material, formato, preco) " +
-                    "VALUES (?, ?, ?, ?, ?, ?, ?)"
-
-            val stmt = c!!.prepareStatement(sql)
-
-            //Preparar Lista para Double Precision
-            val doublePrecision = c!!.createArrayOf("float8", item.dimensao.toTypedArray())
-            //O typedArray() converte um Array para um tipo de dado legível para o Postgres
-
-            //Preparar as variáveis para o Banco
+            conectar()
+            val sql = "INSERT INTO caixa_da_agua (marca, modelo, dimensao, cor, material, formato, preco, quantidade_estoque, fornecedor_id) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)"
+            stmt = c!!.prepareStatement(sql)
+            dimensao = c!!.createArrayOf("float8", item.dimensao.toTypedArray())
             stmt.setString(1, item.marca)
             stmt.setString(2, item.modelo)
-            stmt.setArray(3, doublePrecision)
+            stmt.setArray(3, dimensao)
             stmt.setString(4, item.cor.name)
             stmt.setString(5, item.material.name)
             stmt.setString(6, item.formato)
-            stmt.setString(7, item.preco.toString())
-
+            stmt.setBigDecimal(7, item.preco)
+            stmt.setInt(8, item.quantidadeEstoque)
+            if (item.fornecedorId == null) stmt.setNull(9, Types.INTEGER)
+            else stmt.setInt(9, item.fornecedorId)
             stmt.executeUpdate()
-
-            stmt.close() //encera o placeholder
-            c!!.close() //encerra a conexão com o banco
-        } catch (e : SQLException){
-            println("Não salvou: ${e.printStackTrace()}")
-        }
-    }
- override fun listar() {
-        try {
-            conectar()//IMPORTANTE
-            val stmt = c!!.createStatement()
-
-            val sql = "SELECT * from caixa_da_agua"
-            //Esses metadados vem em forma de Lista, ResultSet
-            val metadados = stmt.executeQuery(sql)
-
-            val resultado = metadados.metaData //Metadados
-            val tamanhoTabela = resultado.columnCount //Tamanho da Tabela em colunas
-
-            while (metadados.next()) {
-                for (i in 1..tamanhoTabela) {
-                    //Nome da coluna
-                    val nomeColuna = resultado.getColumnName(i)
-                    //Dado que está nessa coluna
-                    val valorColuna = metadados.getObject(i)
-                    println("$nomeColuna -> $valorColuna")
-                }//FIM FOR
-                println("----------------------------------------------------")
-            }//FIM WHILE
-
-            stmt.close()
-            c!!.close()
-        } catch (e: SQLException) {
-            println(e.printStackTrace())
+        } finally {
+            dimensao?.free()
+            stmt?.close()
+            c?.close()
         }
     }
 
-   override fun editar (item: CaixaDaAgua, id: Int){
+    override fun editar(item: CaixaDaAgua, id: Int) {
+        var stmt: PreparedStatement? = null
+        var dimensao: java.sql.Array? = null
         try {
             conectar()
-            val sql = "UPDATE caixa_da_agua SET " +
-                    " preco = ?, marca = ?, modelo = ?, formato = ? WHERE id = ?"
-
-            val stmt = c!!.prepareStatement(sql)
-
-            stmt.setString(1, item.preco.toString())
-            stmt.setString(2, item.marca.toString())
-            stmt.setString(3, item.modelo.toString())
-            stmt.setString(4, item.formato.toString())
-            stmt.setInt(5,id)
-            stmt.executeUpdate()
-            stmt.close()
-            c!!.close()
-
-        } catch (e: SQLException){
-            println(e.printStackTrace())
+            val sql = "UPDATE caixa_da_agua SET preco = ?, marca = ?, modelo = ?, formato = ?, dimensao = ?, cor = ?, material = ?, fornecedor_id = ? WHERE id = ?"
+            stmt = c!!.prepareStatement(sql)
+            stmt.setBigDecimal(1, item.preco)
+            stmt.setString(2, item.marca)
+            stmt.setString(3, item.modelo)
+            stmt.setString(4, item.formato)
+            dimensao = c!!.createArrayOf("float8", item.dimensao.toTypedArray())
+            stmt.setArray(5, dimensao)
+            stmt.setString(6, item.cor.name)
+            stmt.setString(7, item.material.name)
+            if (item.fornecedorId == null) stmt.setNull(8, Types.INTEGER)
+            else stmt.setInt(8, item.fornecedorId)
+            stmt.setInt(9, id)
+            check(stmt.executeUpdate() == 1) { "Produto inexistente." }
+        } finally {
+            dimensao?.free()
+            stmt?.close()
+            c?.close()
         }
-
     }
 
-   override fun excluir(id: Int){
+    override fun excluir(id: Int) {
+        var stmt: PreparedStatement? = null
         try {
             conectar()
-            val sql = "DELETE FROM caixa_da_agua WHERE id = ?"
-            val stmt = c!!.prepareStatement(sql)
-            stmt.setInt(1,id)
-            stmt.executeUpdate()
-            stmt.close()
-
-            c!!.close()
-
-        } catch (e: SQLException){
-            println(e.printStackTrace())
+            stmt = c!!.prepareStatement("DELETE FROM caixa_da_agua WHERE id = ?")
+            stmt.setInt(1, id)
+            check(stmt.executeUpdate() == 1) { "Produto inexistente." }
+        } finally {
+            stmt?.close()
+            c?.close()
         }
-
     }
 
+    fun listarTodos(): MutableList<CaixaDaAgua> {
+        val lista = mutableListOf<CaixaDaAgua>()
+        var stmt: PreparedStatement? = null
+        var rs: ResultSet? = null
+        try {
+            conectar()
+            stmt = c!!.prepareStatement("SELECT * FROM caixa_da_agua ORDER BY id")
+            rs = stmt.executeQuery()
+            while (rs.next()) {
+                val array = rs.getArray("dimensao")
+                val dimensoes = (array.array as Array<*>).map { (it as Number).toDouble() }.toMutableList()
+                array.free()
+                val fornecedor = rs.getInt("fornecedor_id")
+                val fornecedorId: Int? = if (rs.wasNull()) null else fornecedor
+                lista.add(CaixaDaAgua(rs.getString("marca"), rs.getString("modelo"), dimensoes,
+                    Cor.valueOf(rs.getString("cor")), Material.valueOf(rs.getString("material")),
+                    rs.getString("formato"), rs.getBigDecimal("preco"), rs.getInt("id"),
+                    rs.getInt("quantidade_estoque"), fornecedorId))
+            }
+            return lista
+        } finally {
+            rs?.close()
+            stmt?.close()
+            c?.close()
+        }
+    }
 
+    fun buscarPorId(id: Int): CaixaDaAgua? = listarTodos().find { it.id == id }
 
-}// fim da classe
+    override fun listar() {
+        val lista = listarTodos()
+        if (lista.isEmpty()) println("Nenhuma caixa cadastrada.")
+        lista.forEach {
+            println("${it.id} - ${it.marca} / ${it.modelo} | ${it.dimensao} | ${it.cor} | ${it.material} | ${it.formato} | R$ ${it.preco} | Estoque: ${it.quantidadeEstoque} | Fornecedor: ${it.fornecedorId ?: "Não informado"}")
+        }
+    }
+}

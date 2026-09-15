@@ -1,0 +1,2 @@
+package enumeradores
+enum class TipoMovimentacao { VENDA_PRODUTO, VENDA_SERVICO, COMPRA_PRODUTO, PAGAMENTO_SALARIO, PAGAMENTO_DESPESA }

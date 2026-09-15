@@ -12,6 +12,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
     <orderEntry type="library" name="postgresql-42.7.13" level="project" />
-    <orderEntry type="library" name="wesleylindo" level="project" />
+    <orderEntry type="library" name="drivePostgres" level="project" />
   </component>
 </module>

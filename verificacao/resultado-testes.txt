@@ -1,0 +1,150 @@
+OK: Regex CPF
+OK: Regex CNPJ
+OK: Funcion�rio com sal�rio negativo
+OK: Funcion�rio com CPF inv�lido
+OK: Cliente menor de idade
+OK: Fornecedor com CNPJ inv�lido
+OK: Texto obrigat�rio vazio
+OK: Receita zero
+OK: Despesa negativa
+A conex�o foi estabelecida!
+OK: Saldo inicial vazio
+A conex�o foi estabelecida!
+A conex�o foi estabelecida!
+A conex�o foi estabelecida!
+A conex�o foi estabelecida!
+A conex�o foi estabelecida!
+A conex�o foi estabelecida!
+A conex�o foi estabelecida!
+A conex�o foi estabelecida!
+A conex�o foi estabelecida!
+OK: Heran�a reconstru�da do banco e dois setores
+OK: Polimorfismo Pessoa/Funcionario
+A conex�o foi estabelecida!
+OK: CPF duplicado recusado
+A conex�o foi estabelecida!
+OK: CNPJ duplicado recusado
+A conex�o foi estabelecida!
+A conex�o foi estabelecida!
+A conex�o foi estabelecida!
+OK: IDs de pessoas inexistentes
+A conex�o foi estabelecida!
+A conex�o foi estabelecida!
+A conex�o foi estabelecida!
+A conex�o foi estabelecida!
+OK: Editar cliente
+A conex�o foi estabelecida!
+OK: Editar fornecedor
+A conex�o foi estabelecida!
+OK: Mudan�a de setor
+OK: Estoque insuficiente/zero/negativo
+OK: Adicionar estoque zero
+OK: Adicionar estoque negativo
+OK: M�todos de estoque
+A conex�o foi estabelecida!
+A conex�o foi estabelecida!
+A conex�o foi estabelecida!
+A conex�o foi estabelecida!
+OK: Editar todas as caracter�sticas do produto
+A conex�o foi estabelecida!
+A conex�o foi estabelecida!
+OK: Produto/servi�o inexistente
+OK: Movimenta��o zero
+OK: Sinal incompat�vel
+A conex�o foi estabelecida!
+A conex�o foi estabelecida!
+OK: Compra abastece estoque
+A conex�o foi estabelecida!
+A conex�o foi estabelecida!
+OK: Venda reduz estoque
+A conex�o foi estabelecida!
+OK: Venda acima do estoque
+OK: Venda quantidade negativa
+A conex�o foi estabelecida!
+OK: Produto inexistente na compra
+A conex�o foi estabelecida!
+OK: Fornecedor inexistente na compra
+A conex�o foi estabelecida!
+OK: Respons�vel inexistente reverte estoque
+A conex�o foi estabelecida!
+OK: Falhas n�o alteram estoque nem lan�amentos
+A conex�o foi estabelecida!
+A conex�o foi estabelecida!
+A conex�o foi estabelecida!
+OK: Despesa com respons�vel inexistente
+A conex�o foi estabelecida!
+OK: N:N com dois instaladores
+OK: Agendamento sem equipe
+A conex�o foi estabelecida!
+OK: Equipe sem habilidade de instala��o
+A conex�o foi estabelecida!
+OK: Cliente inexistente no servi�o
+OK: Agendamento inv�lido n�o deixa servi�o incompleto
+A conex�o foi estabelecida!
+OK: Conclus�o com respons�vel inv�lido reverte status
+A conex�o foi estabelecida!
+OK: Status revertido ap�s falha financeira
+A conex�o foi estabelecida!
+A conex�o foi estabelecida!
+OK: Conclus�o gera receita
+A conex�o foi estabelecida!
+OK: N�o concluir servi�o duas vezes
+A conex�o foi estabelecida!
+OK: N�o cancelar conclu�do
+A conex�o foi estabelecida!
+A conex�o foi estabelecida!
+A conex�o foi estabelecida!
+OK: Cancelar servi�o
+A conex�o foi estabelecida!
+OK: N�o concluir cancelado
+A conex�o foi estabelecida!
+OK: Saldo: -500 +160 -100 -25 +200 = -265
+OK: Cinco movimentos completos
+A conex�o foi estabelecida!
+OK: N�o excluir funcion�rio vinculado
+A conex�o foi estabelecida!
+OK: N�o excluir cliente vinculado
+A conex�o foi estabelecida!
+OK: N�o excluir produto vinculado
+OK: Hist�rico financeiro n�o edit�vel
+OK: Hist�rico financeiro n�o exclu�vel
+A conex�o foi estabelecida!
+A conex�o foi estabelecida!
+A conex�o foi estabelecida!
+A conex�o foi estabelecida!
+OK: Excluir cliente sem v�nculos
+A conex�o foi estabelecida!
+A conex�o foi estabelecida!
+A conex�o foi estabelecida!
+A conex�o foi estabelecida!
+OK: Excluir funcion�rio sem v�nculos
+A conex�o foi estabelecida!
+A conex�o foi estabelecida!
+A conex�o foi estabelecida!
+A conex�o foi estabelecida!
+A conex�o foi estabelecida!
+A conex�o foi estabelecida!
+OK: Excluir fornecedor mant�m produto com FK nula
+A conex�o foi estabelecida!
+A conex�o foi estabelecida!
+OK: Excluir produto sem v�nculos
+A conex�o foi estabelecida!
+1 - Cliente Editado | CPF: 12345678901 | Idade: 26
+A conex�o foi estabelecida!
+1 - Fornecedor Editado | CNPJ: 12345678901234
+A conex�o foi estabelecida!
+1 - Financeiro Editado | CPF: 23456789012 | Idade: 31 | ADMINISTRATIVO | NOTURNO | ADMINISTRATIVO | Sal�rio: R$ 100.00
+2 - Instalador Teste | CPF: 34567890123 | Idade: 25 | INSTALACAO | VESPERTINO | INSTALACAO | Sal�rio: R$ 100.00
+3 - Segundo Instalador | CPF: 45678901234 | Idade: 26 | INSTALACAO | MATUTINO | INSTALACAO | Sal�rio: R$ 100.00
+A conex�o foi estabelecida!
+1 - Marca Editada / Modelo Editado | [3.0, 4.0, 5.0] | CINZA | POLIETILENO | Quadrado | R$ 80.00 | Estoque: 8 | Fornecedor: 1
+A conex�o foi estabelecida!
+1 | Cliente: Cliente Editado | Produto: Modelo Editado | 2026-09-16 | R$ 200.00 | CONCLUIDO | Equipe: Instalador Teste (ID 2), Segundo Instalador (ID 3)
+4 | Cliente: Cliente Editado | Produto: Modelo Editado | 2026-09-15 | R$ 20.00 | CANCELADO | Equipe: Instalador Teste (ID 2), Segundo Instalador (ID 3)
+A conex�o foi estabelecida!
+1 | R$ -500.00 | Pagador Teste -> Recebedor Teste | 2026-09-15 20:18:30.723778 | COMPRA_PRODUTO | Verifica��o | Respons�vel: Financeiro Editado (ID 1)
+2 | R$ 160.00 | Pagador Teste -> Recebedor Teste | 2026-09-15 20:18:30.98239 | VENDA_PRODUTO | Verifica��o | Respons�vel: Financeiro Editado (ID 1)
+4 | R$ -100.00 | Pagador Teste -> Recebedor Teste | 2026-09-15 20:18:31.637871 | PAGAMENTO_SALARIO | Verifica��o | Respons�vel: Financeiro Editado (ID 1)
+5 | R$ -25.00 | Pagador Teste -> Recebedor Teste | 2026-09-15 20:18:31.697617 | PAGAMENTO_DESPESA | Verifica��o | Respons�vel: Financeiro Editado (ID 1)
+8 | R$ 200.00 | Pagador Teste -> Recebedor Teste | 2026-09-15 20:18:32.749659 | VENDA_SERVICO | Verifica��o | Respons�vel: Financeiro Editado (ID 1)
+TOTAL: 58 verifica��es aprovadas.

@@ -1,13 +1,11 @@
 package sistema
 
 import repositorio.CRUDCaixaDAgua
+import validacao.lerInteiro
 
-fun excluirCaixa(){
-    val CRUDCaixaDAgua = CRUDCaixaDAgua()
-    CRUDCaixaDAgua.listar()
-
-    println("Digite o ID que deseja excluir:")
-    val id = readln().toInt()
-
-    CRUDCaixaDAgua.excluir(id)
+fun excluirCaixa() {
+    val crud = CRUDCaixaDAgua()
+    crud.listar()
+    crud.excluir(lerInteiro("ID que deseja excluir:"))
+    println("Caixa excluída.")
 }

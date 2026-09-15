@@ -1,0 +1,2024 @@
+OK: Menu principal inválido e saída
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+Opção inválida!
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+Adeus amigo
+
+
+OK: Leitura no banco principal preservado
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+A conexão foi estabelecida!
+1 - 1 / 1 | [1.0, 1.0, 1.0] | AZUL_FRACO | FIBRA_DE_VIDRO | 1 | R$ 1.00 | Estoque: 0 | Fornecedor: Não informado
+2 - Prudence / Sensivel | [240.0, 140.0, 120.0] | CINZA | INOX | Redondo | R$ 1500.00 | Estoque: 0 | Fornecedor: Não informado
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+1 - Registrar venda
+2 - Registrar compra
+3 - Pagar salário
+4 - Pagar despesa
+5 - Listar movimentações
+6 - Mostrar saldo
+0 - Voltar
+Opção:
+A conexão foi estabelecida!
+Saldo: R$ 0
+1 - Registrar venda
+2 - Registrar compra
+3 - Pagar salário
+4 - Pagar despesa
+5 - Listar movimentações
+6 - Mostrar saldo
+0 - Voltar
+Opção:
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+Adeus amigo
+
+
+OK: CPF inválido cancela cadastro
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+1 - Cadastrar cliente
+2 - Listar clientes
+3 - Cadastrar fornecedor
+4 - Listar fornecedores
+5 - Cadastrar funcionário
+6 - Listar funcionários
+7 - Editar cliente
+8 - Excluir cliente
+9 - Editar fornecedor
+10 - Excluir fornecedor
+11 - Editar funcionário
+12 - Excluir funcionário
+0 - Voltar
+Opção:
+Nome (:cancelar para voltar):
+CPF (11 dígitos):
+CPF inválido. Cadastro cancelado.
+1 - Cadastrar cliente
+2 - Listar clientes
+3 - Cadastrar fornecedor
+4 - Listar fornecedores
+5 - Cadastrar funcionário
+6 - Listar funcionários
+7 - Editar cliente
+8 - Excluir cliente
+9 - Editar fornecedor
+10 - Excluir fornecedor
+11 - Editar funcionário
+12 - Excluir funcionário
+0 - Voltar
+Opção:
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+Adeus amigo
+
+
+OK: Salário negativo e cancelamento
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+1 - Cadastrar cliente
+2 - Listar clientes
+3 - Cadastrar fornecedor
+4 - Listar fornecedores
+5 - Cadastrar funcionário
+6 - Listar funcionários
+7 - Editar cliente
+8 - Excluir cliente
+9 - Editar fornecedor
+10 - Excluir fornecedor
+11 - Editar funcionário
+12 - Excluir funcionário
+0 - Voltar
+Opção:
+Nome (:cancelar para voltar):
+CPF (11 dígitos):
+Idade (mínimo 16):
+Salário:
+Informe um valor válido, sem sinal negativo.
+Salário:
+Operação cancelada.
+1 - Cadastrar cliente
+2 - Listar clientes
+3 - Cadastrar fornecedor
+4 - Listar fornecedores
+5 - Cadastrar funcionário
+6 - Listar funcionários
+7 - Editar cliente
+8 - Excluir cliente
+9 - Editar fornecedor
+10 - Excluir fornecedor
+11 - Editar funcionário
+12 - Excluir funcionário
+0 - Voltar
+Opção:
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+Adeus amigo
+
+
+OK: CPF cliente inválido
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+1 - Cadastrar cliente
+2 - Listar clientes
+3 - Cadastrar fornecedor
+4 - Listar fornecedores
+5 - Cadastrar funcionário
+6 - Listar funcionários
+7 - Editar cliente
+8 - Excluir cliente
+9 - Editar fornecedor
+10 - Excluir fornecedor
+11 - Editar funcionário
+12 - Excluir funcionário
+0 - Voltar
+Opção:
+Nome (:cancelar para voltar):
+CPF (11 dígitos):
+CPF inválido. Cadastro cancelado.
+1 - Cadastrar cliente
+2 - Listar clientes
+3 - Cadastrar fornecedor
+4 - Listar fornecedores
+5 - Cadastrar funcionário
+6 - Listar funcionários
+7 - Editar cliente
+8 - Excluir cliente
+9 - Editar fornecedor
+10 - Excluir fornecedor
+11 - Editar funcionário
+12 - Excluir funcionário
+0 - Voltar
+Opção:
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+Adeus amigo
+
+
+OK: CNPJ inválido
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+1 - Cadastrar cliente
+2 - Listar clientes
+3 - Cadastrar fornecedor
+4 - Listar fornecedores
+5 - Cadastrar funcionário
+6 - Listar funcionários
+7 - Editar cliente
+8 - Excluir cliente
+9 - Editar fornecedor
+10 - Excluir fornecedor
+11 - Editar funcionário
+12 - Excluir funcionário
+0 - Voltar
+Opção:
+Razão social (:cancelar para voltar):
+CNPJ (14 dígitos):
+CNPJ inválido. Cadastro cancelado.
+1 - Cadastrar cliente
+2 - Listar clientes
+3 - Cadastrar fornecedor
+4 - Listar fornecedores
+5 - Cadastrar funcionário
+6 - Listar funcionários
+7 - Editar cliente
+8 - Excluir cliente
+9 - Editar fornecedor
+10 - Excluir fornecedor
+11 - Editar funcionário
+12 - Excluir funcionário
+0 - Voltar
+Opção:
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+Adeus amigo
+
+
+OK: Texto vazio e cancelar
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+1 - Cadastrar cliente
+2 - Listar clientes
+3 - Cadastrar fornecedor
+4 - Listar fornecedores
+5 - Cadastrar funcionário
+6 - Listar funcionários
+7 - Editar cliente
+8 - Excluir cliente
+9 - Editar fornecedor
+10 - Excluir fornecedor
+11 - Editar funcionário
+12 - Excluir funcionário
+0 - Voltar
+Opção:
+Nome (:cancelar para voltar):
+Preencha com 1 a 100 caracteres.
+Nome (:cancelar para voltar):
+Operação cancelada.
+1 - Cadastrar cliente
+2 - Listar clientes
+3 - Cadastrar fornecedor
+4 - Listar fornecedores
+5 - Cadastrar funcionário
+6 - Listar funcionários
+7 - Editar cliente
+8 - Excluir cliente
+9 - Editar fornecedor
+10 - Excluir fornecedor
+11 - Editar funcionário
+12 - Excluir funcionário
+0 - Voltar
+Opção:
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+Adeus amigo
+
+
+OK: Inteiro inválido
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+1 - Registrar venda
+2 - Registrar compra
+3 - Pagar salário
+4 - Pagar despesa
+5 - Listar movimentações
+6 - Mostrar saldo
+0 - Voltar
+Opção:
+Informe um inteiro entre 0 e 6.
+Opção:
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+Adeus amigo
+
+
+OK: Dimensão e cor inválidas
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+Marca (:cancelar para voltar):
+Modelo:
+Largura:
+Informe uma dimensão positiva.
+Largura:
+Informe uma dimensão positiva.
+Largura:
+Altura:
+Profundidade:
+0 - AZUL_FORTE
+1 - AZUL_FRACO
+2 - BRANCO
+3 - CINZA
+Número da cor:
+Informe um inteiro entre 0 e 3.
+Número da cor:
+Operação cancelada.
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+Adeus amigo
+
+
+OK: Cliente inexistente
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+1 - Registrar venda
+2 - Registrar compra
+3 - Pagar salário
+4 - Pagar despesa
+5 - Listar movimentações
+6 - Mostrar saldo
+0 - Voltar
+Opção:
+A conexão foi estabelecida!
+1 - Cliente Editado | CPF: 12345678901 | Idade: 26
+ID do cliente:
+A conexão foi estabelecida!
+Cliente inexistente.
+1 - Registrar venda
+2 - Registrar compra
+3 - Pagar salário
+4 - Pagar despesa
+5 - Listar movimentações
+6 - Mostrar saldo
+0 - Voltar
+Opção:
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+Adeus amigo
+
+
+OK: Fornecedor inexistente
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+1 - Registrar venda
+2 - Registrar compra
+3 - Pagar salário
+4 - Pagar despesa
+5 - Listar movimentações
+6 - Mostrar saldo
+0 - Voltar
+Opção:
+A conexão foi estabelecida!
+1 - Fornecedor Editado | CNPJ: 12345678901234
+ID do fornecedor:
+A conexão foi estabelecida!
+Fornecedor inexistente.
+1 - Registrar venda
+2 - Registrar compra
+3 - Pagar salário
+4 - Pagar despesa
+5 - Listar movimentações
+6 - Mostrar saldo
+0 - Voltar
+Opção:
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+Adeus amigo
+
+
+OK: Produto inexistente
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+1 - Registrar venda
+2 - Registrar compra
+3 - Pagar salário
+4 - Pagar despesa
+5 - Listar movimentações
+6 - Mostrar saldo
+0 - Voltar
+Opção:
+A conexão foi estabelecida!
+1 - Cliente Editado | CPF: 12345678901 | Idade: 26
+ID do cliente:
+A conexão foi estabelecida!
+A conexão foi estabelecida!
+1 - Marca Editada / Modelo Editado | [3.0, 4.0, 5.0] | CINZA | POLIETILENO | Quadrado | R$ 80.00 | Estoque: 8 | Fornecedor: 1
+ID da caixa-d'água:
+A conexão foi estabelecida!
+Produto inexistente.
+1 - Registrar venda
+2 - Registrar compra
+3 - Pagar salário
+4 - Pagar despesa
+5 - Listar movimentações
+6 - Mostrar saldo
+0 - Voltar
+Opção:
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+Adeus amigo
+
+
+OK: Estoque insuficiente
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+1 - Registrar venda
+2 - Registrar compra
+3 - Pagar salário
+4 - Pagar despesa
+5 - Listar movimentações
+6 - Mostrar saldo
+0 - Voltar
+Opção:
+A conexão foi estabelecida!
+1 - Cliente Editado | CPF: 12345678901 | Idade: 26
+ID do cliente:
+A conexão foi estabelecida!
+A conexão foi estabelecida!
+1 - Marca Editada / Modelo Editado | [3.0, 4.0, 5.0] | CINZA | POLIETILENO | Quadrado | R$ 80.00 | Estoque: 8 | Fornecedor: 1
+ID da caixa-d'água:
+A conexão foi estabelecida!
+Quantidade:
+Estoque insuficiente.
+1 - Registrar venda
+2 - Registrar compra
+3 - Pagar salário
+4 - Pagar despesa
+5 - Listar movimentações
+6 - Mostrar saldo
+0 - Voltar
+Opção:
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+Adeus amigo
+
+
+OK: Responsável inexistente
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+1 - Registrar venda
+2 - Registrar compra
+3 - Pagar salário
+4 - Pagar despesa
+5 - Listar movimentações
+6 - Mostrar saldo
+0 - Voltar
+Opção:
+Quem receberá?
+Valor da despesa:
+Descrição:
+A conexão foi estabelecida!
+1 - Financeiro Editado | CPF: 23456789012 | Idade: 31 | ADMINISTRATIVO | NOTURNO | ADMINISTRATIVO | Salário: R$ 100.00
+2 - Instalador Teste | CPF: 34567890123 | Idade: 25 | INSTALACAO | VESPERTINO | INSTALACAO | Salário: R$ 100.00
+3 - Segundo Instalador | CPF: 45678901234 | Idade: 26 | INSTALACAO | MATUTINO | INSTALACAO | Salário: R$ 100.00
+ID do funcionário responsável:
+A conexão foi estabelecida!
+Funcionário inexistente.
+1 - Registrar venda
+2 - Registrar compra
+3 - Pagar salário
+4 - Pagar despesa
+5 - Listar movimentações
+6 - Mostrar saldo
+0 - Voltar
+Opção:
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+Adeus amigo
+
+
+OK: Dinheiro malformado e negativo
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+1 - Registrar venda
+2 - Registrar compra
+3 - Pagar salário
+4 - Pagar despesa
+5 - Listar movimentações
+6 - Mostrar saldo
+0 - Voltar
+Opção:
+Quem receberá?
+Valor da despesa:
+Formato monetário inválido.
+Informe um valor válido, sem sinal negativo.
+Valor da despesa:
+Informe um valor válido, sem sinal negativo.
+Valor da despesa:
+Use no máximo duas casas decimais.
+Informe um valor válido, sem sinal negativo.
+Valor da despesa:
+Operação cancelada.
+1 - Registrar venda
+2 - Registrar compra
+3 - Pagar salário
+4 - Pagar despesa
+5 - Listar movimentações
+6 - Mostrar saldo
+0 - Voltar
+Opção:
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+Adeus amigo
+
+
+OK: Serviço inexistente
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+1 - Agendar serviço
+2 - Listar serviços
+3 - Concluir serviço
+4 - Cancelar serviço
+0 - Voltar
+Opção:
+A conexão foi estabelecida!
+1 | Cliente: Cliente Editado | Produto: Modelo Editado | 2026-09-16 | R$ 200.00 | CONCLUIDO | Equipe: Instalador Teste (ID 2), Segundo Instalador (ID 3)
+4 | Cliente: Cliente Editado | Produto: Modelo Editado | 2026-09-15 | R$ 20.00 | CANCELADO | Equipe: Instalador Teste (ID 2), Segundo Instalador (ID 3)
+ID do serviço:
+A conexão foi estabelecida!
+Serviço inexistente.
+1 - Agendar serviço
+2 - Listar serviços
+3 - Concluir serviço
+4 - Cancelar serviço
+0 - Voltar
+Opção:
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+Adeus amigo
+
+
+OK: Compra pelo menu
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+1 - Registrar venda
+2 - Registrar compra
+3 - Pagar salário
+4 - Pagar despesa
+5 - Listar movimentações
+6 - Mostrar saldo
+0 - Voltar
+Opção:
+A conexão foi estabelecida!
+1 - Fornecedor Editado | CNPJ: 12345678901234
+ID do fornecedor:
+A conexão foi estabelecida!
+A conexão foi estabelecida!
+1 - Marca Editada / Modelo Editado | [3.0, 4.0, 5.0] | CINZA | POLIETILENO | Quadrado | R$ 80.00 | Estoque: 8 | Fornecedor: 1
+ID da caixa-d'água:
+A conexão foi estabelecida!
+Quantidade:
+Valor TOTAL da compra:
+A conexão foi estabelecida!
+1 - Financeiro Editado | CPF: 23456789012 | Idade: 31 | ADMINISTRATIVO | NOTURNO | ADMINISTRATIVO | Salário: R$ 100.00
+2 - Instalador Teste | CPF: 34567890123 | Idade: 25 | INSTALACAO | VESPERTINO | INSTALACAO | Salário: R$ 100.00
+3 - Segundo Instalador | CPF: 45678901234 | Idade: 26 | INSTALACAO | MATUTINO | INSTALACAO | Salário: R$ 100.00
+ID do funcionário responsável:
+A conexão foi estabelecida!
+A conexão foi estabelecida!
+Compra registrada.
+1 - Registrar venda
+2 - Registrar compra
+3 - Pagar salário
+4 - Pagar despesa
+5 - Listar movimentações
+6 - Mostrar saldo
+0 - Voltar
+Opção:
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+Adeus amigo
+
+
+OK: Venda pelo menu
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+1 - Registrar venda
+2 - Registrar compra
+3 - Pagar salário
+4 - Pagar despesa
+5 - Listar movimentações
+6 - Mostrar saldo
+0 - Voltar
+Opção:
+A conexão foi estabelecida!
+1 - Cliente Editado | CPF: 12345678901 | Idade: 26
+ID do cliente:
+A conexão foi estabelecida!
+A conexão foi estabelecida!
+1 - Marca Editada / Modelo Editado | [3.0, 4.0, 5.0] | CINZA | POLIETILENO | Quadrado | R$ 80.00 | Estoque: 10 | Fornecedor: 1
+ID da caixa-d'água:
+A conexão foi estabelecida!
+Quantidade:
+A conexão foi estabelecida!
+1 - Financeiro Editado | CPF: 23456789012 | Idade: 31 | ADMINISTRATIVO | NOTURNO | ADMINISTRATIVO | Salário: R$ 100.00
+2 - Instalador Teste | CPF: 34567890123 | Idade: 25 | INSTALACAO | VESPERTINO | INSTALACAO | Salário: R$ 100.00
+3 - Segundo Instalador | CPF: 45678901234 | Idade: 26 | INSTALACAO | MATUTINO | INSTALACAO | Salário: R$ 100.00
+ID do funcionário responsável:
+A conexão foi estabelecida!
+A conexão foi estabelecida!
+Venda registrada: R$ 160.00
+1 - Registrar venda
+2 - Registrar compra
+3 - Pagar salário
+4 - Pagar despesa
+5 - Listar movimentações
+6 - Mostrar saldo
+0 - Voltar
+Opção:
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+Adeus amigo
+
+
+OK: Salário pelo menu
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+1 - Registrar venda
+2 - Registrar compra
+3 - Pagar salário
+4 - Pagar despesa
+5 - Listar movimentações
+6 - Mostrar saldo
+0 - Voltar
+Opção:
+A conexão foi estabelecida!
+1 - Financeiro Editado | CPF: 23456789012 | Idade: 31 | ADMINISTRATIVO | NOTURNO | ADMINISTRATIVO | Salário: R$ 100.00
+2 - Instalador Teste | CPF: 34567890123 | Idade: 25 | INSTALACAO | VESPERTINO | INSTALACAO | Salário: R$ 100.00
+3 - Segundo Instalador | CPF: 45678901234 | Idade: 26 | INSTALACAO | MATUTINO | INSTALACAO | Salário: R$ 100.00
+ID do funcionário que receberá:
+A conexão foi estabelecida!
+A conexão foi estabelecida!
+1 - Financeiro Editado | CPF: 23456789012 | Idade: 31 | ADMINISTRATIVO | NOTURNO | ADMINISTRATIVO | Salário: R$ 100.00
+2 - Instalador Teste | CPF: 34567890123 | Idade: 25 | INSTALACAO | VESPERTINO | INSTALACAO | Salário: R$ 100.00
+3 - Segundo Instalador | CPF: 45678901234 | Idade: 26 | INSTALACAO | MATUTINO | INSTALACAO | Salário: R$ 100.00
+ID do funcionário responsável:
+A conexão foi estabelecida!
+A conexão foi estabelecida!
+Salário pago.
+1 - Registrar venda
+2 - Registrar compra
+3 - Pagar salário
+4 - Pagar despesa
+5 - Listar movimentações
+6 - Mostrar saldo
+0 - Voltar
+Opção:
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+Adeus amigo
+
+
+OK: Despesa pelo menu
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+1 - Registrar venda
+2 - Registrar compra
+3 - Pagar salário
+4 - Pagar despesa
+5 - Listar movimentações
+6 - Mostrar saldo
+0 - Voltar
+Opção:
+Quem receberá?
+Valor da despesa:
+Descrição:
+A conexão foi estabelecida!
+1 - Financeiro Editado | CPF: 23456789012 | Idade: 31 | ADMINISTRATIVO | NOTURNO | ADMINISTRATIVO | Salário: R$ 100.00
+2 - Instalador Teste | CPF: 34567890123 | Idade: 25 | INSTALACAO | VESPERTINO | INSTALACAO | Salário: R$ 100.00
+3 - Segundo Instalador | CPF: 45678901234 | Idade: 26 | INSTALACAO | MATUTINO | INSTALACAO | Salário: R$ 100.00
+ID do funcionário responsável:
+A conexão foi estabelecida!
+A conexão foi estabelecida!
+Despesa registrada.
+1 - Registrar venda
+2 - Registrar compra
+3 - Pagar salário
+4 - Pagar despesa
+5 - Listar movimentações
+6 - Mostrar saldo
+0 - Voltar
+Opção:
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+Adeus amigo
+
+
+OK: Agendamento com N:N pelo menu
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+1 - Agendar serviço
+2 - Listar serviços
+3 - Concluir serviço
+4 - Cancelar serviço
+0 - Voltar
+Opção:
+A conexão foi estabelecida!
+1 - Cliente Editado | CPF: 12345678901 | Idade: 26
+ID do cliente:
+A conexão foi estabelecida!
+A conexão foi estabelecida!
+1 - Marca Editada / Modelo Editado | [3.0, 4.0, 5.0] | CINZA | POLIETILENO | Quadrado | R$ 80.00 | Estoque: 8 | Fornecedor: 1
+ID da caixa-d'água:
+A conexão foi estabelecida!
+Data da instalação (AAAA-MM-DD):
+Preço do serviço:
+A conexão foi estabelecida!
+1 - Financeiro Editado | CPF: 23456789012 | Idade: 31 | ADMINISTRATIVO | NOTURNO | ADMINISTRATIVO | Salário: R$ 100.00
+2 - Instalador Teste | CPF: 34567890123 | Idade: 25 | INSTALACAO | VESPERTINO | INSTALACAO | Salário: R$ 100.00
+3 - Segundo Instalador | CPF: 45678901234 | Idade: 26 | INSTALACAO | MATUTINO | INSTALACAO | Salário: R$ 100.00
+ID do instalador:
+A conexão foi estabelecida!
+Adicionar outro instalador? 1 - Sim / 0 - Não
+A conexão foi estabelecida!
+1 - Financeiro Editado | CPF: 23456789012 | Idade: 31 | ADMINISTRATIVO | NOTURNO | ADMINISTRATIVO | Salário: R$ 100.00
+2 - Instalador Teste | CPF: 34567890123 | Idade: 25 | INSTALACAO | VESPERTINO | INSTALACAO | Salário: R$ 100.00
+3 - Segundo Instalador | CPF: 45678901234 | Idade: 26 | INSTALACAO | MATUTINO | INSTALACAO | Salário: R$ 100.00
+ID do instalador:
+A conexão foi estabelecida!
+Adicionar outro instalador? 1 - Sim / 0 - Não
+A conexão foi estabelecida!
+Serviço agendado.
+1 - Agendar serviço
+2 - Listar serviços
+3 - Concluir serviço
+4 - Cancelar serviço
+0 - Voltar
+Opção:
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+Adeus amigo
+
+
+OK: Conclusão pelo menu
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+1 - Agendar serviço
+2 - Listar serviços
+3 - Concluir serviço
+4 - Cancelar serviço
+0 - Voltar
+Opção:
+A conexão foi estabelecida!
+1 | Cliente: Cliente Editado | Produto: Modelo Editado | 2026-09-16 | R$ 200.00 | CONCLUIDO | Equipe: Instalador Teste (ID 2), Segundo Instalador (ID 3)
+4 | Cliente: Cliente Editado | Produto: Modelo Editado | 2026-09-15 | R$ 20.00 | CANCELADO | Equipe: Instalador Teste (ID 2), Segundo Instalador (ID 3)
+5 | Cliente: Cliente Editado | Produto: Modelo Editado | 2026-09-16 | R$ 300.00 | AGENDADO | Equipe: Instalador Teste (ID 2), Segundo Instalador (ID 3)
+ID do serviço:
+A conexão foi estabelecida!
+A conexão foi estabelecida!
+A conexão foi estabelecida!
+1 - Financeiro Editado | CPF: 23456789012 | Idade: 31 | ADMINISTRATIVO | NOTURNO | ADMINISTRATIVO | Salário: R$ 100.00
+2 - Instalador Teste | CPF: 34567890123 | Idade: 25 | INSTALACAO | VESPERTINO | INSTALACAO | Salário: R$ 100.00
+3 - Segundo Instalador | CPF: 45678901234 | Idade: 26 | INSTALACAO | MATUTINO | INSTALACAO | Salário: R$ 100.00
+ID do funcionário responsável:
+A conexão foi estabelecida!
+A conexão foi estabelecida!
+Serviço concluído e receita registrada.
+1 - Agendar serviço
+2 - Listar serviços
+3 - Concluir serviço
+4 - Cancelar serviço
+0 - Voltar
+Opção:
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+Adeus amigo
+
+
+OK: Conclusão repetida pelo menu
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+1 - Agendar serviço
+2 - Listar serviços
+3 - Concluir serviço
+4 - Cancelar serviço
+0 - Voltar
+Opção:
+A conexão foi estabelecida!
+1 | Cliente: Cliente Editado | Produto: Modelo Editado | 2026-09-16 | R$ 200.00 | CONCLUIDO | Equipe: Instalador Teste (ID 2), Segundo Instalador (ID 3)
+4 | Cliente: Cliente Editado | Produto: Modelo Editado | 2026-09-15 | R$ 20.00 | CANCELADO | Equipe: Instalador Teste (ID 2), Segundo Instalador (ID 3)
+5 | Cliente: Cliente Editado | Produto: Modelo Editado | 2026-09-16 | R$ 300.00 | CONCLUIDO | Equipe: Instalador Teste (ID 2), Segundo Instalador (ID 3)
+ID do serviço:
+A conexão foi estabelecida!
+Serviço já finalizado.
+1 - Agendar serviço
+2 - Listar serviços
+3 - Concluir serviço
+4 - Cancelar serviço
+0 - Voltar
+Opção:
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+Adeus amigo
+
+
+OK: Listagens e saldo pelo menu
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+1 - Cadastrar cliente
+2 - Listar clientes
+3 - Cadastrar fornecedor
+4 - Listar fornecedores
+5 - Cadastrar funcionário
+6 - Listar funcionários
+7 - Editar cliente
+8 - Excluir cliente
+9 - Editar fornecedor
+10 - Excluir fornecedor
+11 - Editar funcionário
+12 - Excluir funcionário
+0 - Voltar
+Opção:
+A conexão foi estabelecida!
+1 - Cliente Editado | CPF: 12345678901 | Idade: 26
+1 - Cadastrar cliente
+2 - Listar clientes
+3 - Cadastrar fornecedor
+4 - Listar fornecedores
+5 - Cadastrar funcionário
+6 - Listar funcionários
+7 - Editar cliente
+8 - Excluir cliente
+9 - Editar fornecedor
+10 - Excluir fornecedor
+11 - Editar funcionário
+12 - Excluir funcionário
+0 - Voltar
+Opção:
+A conexão foi estabelecida!
+1 - Fornecedor Editado | CNPJ: 12345678901234
+1 - Cadastrar cliente
+2 - Listar clientes
+3 - Cadastrar fornecedor
+4 - Listar fornecedores
+5 - Cadastrar funcionário
+6 - Listar funcionários
+7 - Editar cliente
+8 - Excluir cliente
+9 - Editar fornecedor
+10 - Excluir fornecedor
+11 - Editar funcionário
+12 - Excluir funcionário
+0 - Voltar
+Opção:
+A conexão foi estabelecida!
+1 - Financeiro Editado | CPF: 23456789012 | Idade: 31 | ADMINISTRATIVO | NOTURNO | ADMINISTRATIVO | Salário: R$ 100.00
+2 - Instalador Teste | CPF: 34567890123 | Idade: 25 | INSTALACAO | VESPERTINO | INSTALACAO | Salário: R$ 100.00
+3 - Segundo Instalador | CPF: 45678901234 | Idade: 26 | INSTALACAO | MATUTINO | INSTALACAO | Salário: R$ 100.00
+1 - Cadastrar cliente
+2 - Listar clientes
+3 - Cadastrar fornecedor
+4 - Listar fornecedores
+5 - Cadastrar funcionário
+6 - Listar funcionários
+7 - Editar cliente
+8 - Excluir cliente
+9 - Editar fornecedor
+10 - Excluir fornecedor
+11 - Editar funcionário
+12 - Excluir funcionário
+0 - Voltar
+Opção:
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+1 - Agendar serviço
+2 - Listar serviços
+3 - Concluir serviço
+4 - Cancelar serviço
+0 - Voltar
+Opção:
+A conexão foi estabelecida!
+1 | Cliente: Cliente Editado | Produto: Modelo Editado | 2026-09-16 | R$ 200.00 | CONCLUIDO | Equipe: Instalador Teste (ID 2), Segundo Instalador (ID 3)
+4 | Cliente: Cliente Editado | Produto: Modelo Editado | 2026-09-15 | R$ 20.00 | CANCELADO | Equipe: Instalador Teste (ID 2), Segundo Instalador (ID 3)
+5 | Cliente: Cliente Editado | Produto: Modelo Editado | 2026-09-16 | R$ 300.00 | CONCLUIDO | Equipe: Instalador Teste (ID 2), Segundo Instalador (ID 3)
+1 - Agendar serviço
+2 - Listar serviços
+3 - Concluir serviço
+4 - Cancelar serviço
+0 - Voltar
+Opção:
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+1 - Registrar venda
+2 - Registrar compra
+3 - Pagar salário
+4 - Pagar despesa
+5 - Listar movimentações
+6 - Mostrar saldo
+0 - Voltar
+Opção:
+A conexão foi estabelecida!
+1 | R$ -500.00 | Pagador Teste -> Recebedor Teste | 2026-09-15 20:18:30.723778 | COMPRA_PRODUTO | Verificação | Responsável: Financeiro Editado (ID 1)
+2 | R$ 160.00 | Pagador Teste -> Recebedor Teste | 2026-09-15 20:18:30.98239 | VENDA_PRODUTO | Verificação | Responsável: Financeiro Editado (ID 1)
+4 | R$ -100.00 | Pagador Teste -> Recebedor Teste | 2026-09-15 20:18:31.637871 | PAGAMENTO_SALARIO | Verificação | Responsável: Financeiro Editado (ID 1)
+5 | R$ -25.00 | Pagador Teste -> Recebedor Teste | 2026-09-15 20:18:31.697617 | PAGAMENTO_DESPESA | Verificação | Responsável: Financeiro Editado (ID 1)
+8 | R$ 200.00 | Pagador Teste -> Recebedor Teste | 2026-09-15 20:18:32.749659 | VENDA_SERVICO | Verificação | Responsável: Financeiro Editado (ID 1)
+9 | R$ -100.00 | Empresa -> Fornecedor Editado | 2026-09-15 20:26:13.598243 | COMPRA_PRODUTO | Compra do produto 1, quantidade 2 | Responsável: Financeiro Editado (ID 1)
+10 | R$ 160.00 | Cliente Editado -> Empresa | 2026-09-15 20:26:23.661592 | VENDA_PRODUTO | Venda do produto 1, quantidade 2 | Responsável: Financeiro Editado (ID 1)
+11 | R$ -100.00 | Empresa -> Instalador Teste | 2026-09-15 20:26:33.136472 | PAGAMENTO_SALARIO | Pagamento de salário | Responsável: Financeiro Editado (ID 1)
+12 | R$ -25.00 | Empresa -> Loja Teste | 2026-09-15 20:26:42.241515 | PAGAMENTO_DESPESA | Conta Teste | Responsável: Financeiro Editado (ID 1)
+13 | R$ 300.00 | Cliente Editado -> Empresa | 2026-09-15 20:27:01.709735 | VENDA_SERVICO | Conclusão do serviço 5 | Responsável: Financeiro Editado (ID 1)
+1 - Registrar venda
+2 - Registrar compra
+3 - Pagar salário
+4 - Pagar despesa
+5 - Listar movimentações
+6 - Mostrar saldo
+0 - Voltar
+Opção:
+A conexão foi estabelecida!
+Saldo: R$ -30.00
+1 - Registrar venda
+2 - Registrar compra
+3 - Pagar salário
+4 - Pagar despesa
+5 - Listar movimentações
+6 - Mostrar saldo
+0 - Voltar
+Opção:
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+Adeus amigo
+
+
+OK: Data inválida e cancelamento
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+1 - Agendar serviço
+2 - Listar serviços
+3 - Concluir serviço
+4 - Cancelar serviço
+0 - Voltar
+Opção:
+A conexão foi estabelecida!
+1 - Cliente Editado | CPF: 12345678901 | Idade: 26
+ID do cliente:
+A conexão foi estabelecida!
+A conexão foi estabelecida!
+1 - Marca Editada / Modelo Editado | [3.0, 4.0, 5.0] | CINZA | POLIETILENO | Quadrado | R$ 80.00 | Estoque: 8 | Fornecedor: 1
+ID da caixa-d'água:
+A conexão foi estabelecida!
+Data da instalação (AAAA-MM-DD):
+Use AAAA-MM-DD e uma data a partir de hoje.
+Data da instalação (AAAA-MM-DD):
+Formato inválido.
+Use AAAA-MM-DD e uma data a partir de hoje.
+Data da instalação (AAAA-MM-DD):
+Operação cancelada.
+1 - Agendar serviço
+2 - Listar serviços
+3 - Concluir serviço
+4 - Cancelar serviço
+0 - Voltar
+Opção:
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+Adeus amigo
+
+
+OK: Pessoa sem habilidade para instalar
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+1 - Agendar serviço
+2 - Listar serviços
+3 - Concluir serviço
+4 - Cancelar serviço
+0 - Voltar
+Opção:
+A conexão foi estabelecida!
+1 - Cliente Editado | CPF: 12345678901 | Idade: 26
+ID do cliente:
+A conexão foi estabelecida!
+A conexão foi estabelecida!
+1 - Marca Editada / Modelo Editado | [3.0, 4.0, 5.0] | CINZA | POLIETILENO | Quadrado | R$ 80.00 | Estoque: 8 | Fornecedor: 1
+ID da caixa-d'água:
+A conexão foi estabelecida!
+Data da instalação (AAAA-MM-DD):
+Preço do serviço:
+A conexão foi estabelecida!
+1 - Financeiro Editado | CPF: 23456789012 | Idade: 31 | ADMINISTRATIVO | NOTURNO | ADMINISTRATIVO | Salário: R$ 100.00
+2 - Instalador Teste | CPF: 34567890123 | Idade: 25 | INSTALACAO | VESPERTINO | INSTALACAO | Salário: R$ 100.00
+3 - Segundo Instalador | CPF: 45678901234 | Idade: 26 | INSTALACAO | MATUTINO | INSTALACAO | Salário: R$ 100.00
+ID do instalador:
+A conexão foi estabelecida!
+Escolha um funcionário de instalação.
+1 - Agendar serviço
+2 - Listar serviços
+3 - Concluir serviço
+4 - Cancelar serviço
+0 - Voltar
+Opção:
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+Adeus amigo
+
+
+OK: Cadastrar cliente pelo menu
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+1 - Cadastrar cliente
+2 - Listar clientes
+3 - Cadastrar fornecedor
+4 - Listar fornecedores
+5 - Cadastrar funcionário
+6 - Listar funcionários
+7 - Editar cliente
+8 - Excluir cliente
+9 - Editar fornecedor
+10 - Excluir fornecedor
+11 - Editar funcionário
+12 - Excluir funcionário
+0 - Voltar
+Opção:
+Nome (:cancelar para voltar):
+CPF (11 dígitos):
+Idade (mínimo 18):
+A conexão foi estabelecida!
+Cliente cadastrado.
+1 - Cadastrar cliente
+2 - Listar clientes
+3 - Cadastrar fornecedor
+4 - Listar fornecedores
+5 - Cadastrar funcionário
+6 - Listar funcionários
+7 - Editar cliente
+8 - Excluir cliente
+9 - Editar fornecedor
+10 - Excluir fornecedor
+11 - Editar funcionário
+12 - Excluir funcionário
+0 - Voltar
+Opção:
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+Adeus amigo
+
+
+OK: Editar cliente pelo menu
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+1 - Cadastrar cliente
+2 - Listar clientes
+3 - Cadastrar fornecedor
+4 - Listar fornecedores
+5 - Cadastrar funcionário
+6 - Listar funcionários
+7 - Editar cliente
+8 - Excluir cliente
+9 - Editar fornecedor
+10 - Excluir fornecedor
+11 - Editar funcionário
+12 - Excluir funcionário
+0 - Voltar
+Opção:
+A conexão foi estabelecida!
+1 - Cliente Editado | CPF: 12345678901 | Idade: 26
+4 - Cliente Console | CPF: 78901234567 | Idade: 22
+ID:
+A conexão foi estabelecida!
+Nome (:cancelar para voltar):
+CPF (11 dígitos):
+Idade (mínimo 18):
+A conexão foi estabelecida!
+Cliente atualizado.
+1 - Cadastrar cliente
+2 - Listar clientes
+3 - Cadastrar fornecedor
+4 - Listar fornecedores
+5 - Cadastrar funcionário
+6 - Listar funcionários
+7 - Editar cliente
+8 - Excluir cliente
+9 - Editar fornecedor
+10 - Excluir fornecedor
+11 - Editar funcionário
+12 - Excluir funcionário
+0 - Voltar
+Opção:
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+Adeus amigo
+
+
+OK: Excluir cliente pelo menu
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+1 - Cadastrar cliente
+2 - Listar clientes
+3 - Cadastrar fornecedor
+4 - Listar fornecedores
+5 - Cadastrar funcionário
+6 - Listar funcionários
+7 - Editar cliente
+8 - Excluir cliente
+9 - Editar fornecedor
+10 - Excluir fornecedor
+11 - Editar funcionário
+12 - Excluir funcionário
+0 - Voltar
+Opção:
+A conexão foi estabelecida!
+1 - Cliente Editado | CPF: 12345678901 | Idade: 26
+4 - Cliente Console Editado | CPF: 78901234567 | Idade: 23
+ID para excluir:
+A conexão foi estabelecida!
+Cliente excluído.
+1 - Cadastrar cliente
+2 - Listar clientes
+3 - Cadastrar fornecedor
+4 - Listar fornecedores
+5 - Cadastrar funcionário
+6 - Listar funcionários
+7 - Editar cliente
+8 - Excluir cliente
+9 - Editar fornecedor
+10 - Excluir fornecedor
+11 - Editar funcionário
+12 - Excluir funcionário
+0 - Voltar
+Opção:
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+Adeus amigo
+
+
+OK: Cadastrar fornecedor pelo menu
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+1 - Cadastrar cliente
+2 - Listar clientes
+3 - Cadastrar fornecedor
+4 - Listar fornecedores
+5 - Cadastrar funcionário
+6 - Listar funcionários
+7 - Editar cliente
+8 - Excluir cliente
+9 - Editar fornecedor
+10 - Excluir fornecedor
+11 - Editar funcionário
+12 - Excluir funcionário
+0 - Voltar
+Opção:
+Razão social (:cancelar para voltar):
+CNPJ (14 dígitos):
+A conexão foi estabelecida!
+Fornecedor cadastrado.
+1 - Cadastrar cliente
+2 - Listar clientes
+3 - Cadastrar fornecedor
+4 - Listar fornecedores
+5 - Cadastrar funcionário
+6 - Listar funcionários
+7 - Editar cliente
+8 - Excluir cliente
+9 - Editar fornecedor
+10 - Excluir fornecedor
+11 - Editar funcionário
+12 - Excluir funcionário
+0 - Voltar
+Opção:
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+Adeus amigo
+
+
+OK: Editar fornecedor pelo menu
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+1 - Cadastrar cliente
+2 - Listar clientes
+3 - Cadastrar fornecedor
+4 - Listar fornecedores
+5 - Cadastrar funcionário
+6 - Listar funcionários
+7 - Editar cliente
+8 - Excluir cliente
+9 - Editar fornecedor
+10 - Excluir fornecedor
+11 - Editar funcionário
+12 - Excluir funcionário
+0 - Voltar
+Opção:
+A conexão foi estabelecida!
+1 - Fornecedor Editado | CNPJ: 12345678901234
+4 - Fornecedor Console | CNPJ: 34567890123456
+ID:
+A conexão foi estabelecida!
+Razão social (:cancelar para voltar):
+CNPJ (14 dígitos):
+A conexão foi estabelecida!
+Fornecedor atualizado.
+1 - Cadastrar cliente
+2 - Listar clientes
+3 - Cadastrar fornecedor
+4 - Listar fornecedores
+5 - Cadastrar funcionário
+6 - Listar funcionários
+7 - Editar cliente
+8 - Excluir cliente
+9 - Editar fornecedor
+10 - Excluir fornecedor
+11 - Editar funcionário
+12 - Excluir funcionário
+0 - Voltar
+Opção:
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+Adeus amigo
+
+
+OK: Excluir fornecedor pelo menu
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+1 - Cadastrar cliente
+2 - Listar clientes
+3 - Cadastrar fornecedor
+4 - Listar fornecedores
+5 - Cadastrar funcionário
+6 - Listar funcionários
+7 - Editar cliente
+8 - Excluir cliente
+9 - Editar fornecedor
+10 - Excluir fornecedor
+11 - Editar funcionário
+12 - Excluir funcionário
+0 - Voltar
+Opção:
+A conexão foi estabelecida!
+1 - Fornecedor Editado | CNPJ: 12345678901234
+4 - Fornecedor Console Editado | CNPJ: 34567890123456
+ID para excluir:
+A conexão foi estabelecida!
+Fornecedor excluído.
+1 - Cadastrar cliente
+2 - Listar clientes
+3 - Cadastrar fornecedor
+4 - Listar fornecedores
+5 - Cadastrar funcionário
+6 - Listar funcionários
+7 - Editar cliente
+8 - Excluir cliente
+9 - Editar fornecedor
+10 - Excluir fornecedor
+11 - Editar funcionário
+12 - Excluir funcionário
+0 - Voltar
+Opção:
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+Adeus amigo
+
+
+OK: Cadastrar funcionário pelo menu
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+1 - Cadastrar cliente
+2 - Listar clientes
+3 - Cadastrar fornecedor
+4 - Listar fornecedores
+5 - Cadastrar funcionário
+6 - Listar funcionários
+7 - Editar cliente
+8 - Excluir cliente
+9 - Editar fornecedor
+10 - Excluir fornecedor
+11 - Editar funcionário
+12 - Excluir funcionário
+0 - Voltar
+Opção:
+Nome (:cancelar para voltar):
+CPF (11 dígitos):
+Idade (mínimo 16):
+Salário:
+0 - MATUTINO
+1 - VESPERTINO
+2 - NOTURNO
+Turno:
+0 - FINANCEIRO
+1 - ADMINISTRATIVO
+2 - LOGISTICA
+3 - INSTALACAO
+Setor:
+0 - INSTALACAO
+1 - FINANCEIRO
+2 - ADMINISTRATIVO
+3 - LOGISTICA
+Habilidade:
+A conexão foi estabelecida!
+Funcionário cadastrado.
+1 - Cadastrar cliente
+2 - Listar clientes
+3 - Cadastrar fornecedor
+4 - Listar fornecedores
+5 - Cadastrar funcionário
+6 - Listar funcionários
+7 - Editar cliente
+8 - Excluir cliente
+9 - Editar fornecedor
+10 - Excluir fornecedor
+11 - Editar funcionário
+12 - Excluir funcionário
+0 - Voltar
+Opção:
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+Adeus amigo
+
+
+OK: Editar funcionário para instalador
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+1 - Cadastrar cliente
+2 - Listar clientes
+3 - Cadastrar fornecedor
+4 - Listar fornecedores
+5 - Cadastrar funcionário
+6 - Listar funcionários
+7 - Editar cliente
+8 - Excluir cliente
+9 - Editar fornecedor
+10 - Excluir fornecedor
+11 - Editar funcionário
+12 - Excluir funcionário
+0 - Voltar
+Opção:
+A conexão foi estabelecida!
+1 - Financeiro Editado | CPF: 23456789012 | Idade: 31 | ADMINISTRATIVO | NOTURNO | ADMINISTRATIVO | Salário: R$ 100.00
+2 - Instalador Teste | CPF: 34567890123 | Idade: 25 | INSTALACAO | VESPERTINO | INSTALACAO | Salário: R$ 100.00
+3 - Segundo Instalador | CPF: 45678901234 | Idade: 26 | INSTALACAO | MATUTINO | INSTALACAO | Salário: R$ 100.00
+5 - Funcionario Console | CPF: 89012345678 | Idade: 20 | LOGISTICA | MATUTINO | LOGISTICA | Salário: R$ 50.00
+ID:
+A conexão foi estabelecida!
+Nome (:cancelar para voltar):
+CPF (11 dígitos):
+Idade (mínimo 16):
+Salário:
+0 - MATUTINO
+1 - VESPERTINO
+2 - NOTURNO
+Turno:
+0 - FINANCEIRO
+1 - ADMINISTRATIVO
+2 - LOGISTICA
+3 - INSTALACAO
+Setor:
+A conexão foi estabelecida!
+Funcionário atualizado.
+1 - Cadastrar cliente
+2 - Listar clientes
+3 - Cadastrar fornecedor
+4 - Listar fornecedores
+5 - Cadastrar funcionário
+6 - Listar funcionários
+7 - Editar cliente
+8 - Excluir cliente
+9 - Editar fornecedor
+10 - Excluir fornecedor
+11 - Editar funcionário
+12 - Excluir funcionário
+0 - Voltar
+Opção:
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+Adeus amigo
+
+
+OK: Excluir funcionário pelo menu
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+1 - Cadastrar cliente
+2 - Listar clientes
+3 - Cadastrar fornecedor
+4 - Listar fornecedores
+5 - Cadastrar funcionário
+6 - Listar funcionários
+7 - Editar cliente
+8 - Excluir cliente
+9 - Editar fornecedor
+10 - Excluir fornecedor
+11 - Editar funcionário
+12 - Excluir funcionário
+0 - Voltar
+Opção:
+A conexão foi estabelecida!
+1 - Financeiro Editado | CPF: 23456789012 | Idade: 31 | ADMINISTRATIVO | NOTURNO | ADMINISTRATIVO | Salário: R$ 100.00
+2 - Instalador Teste | CPF: 34567890123 | Idade: 25 | INSTALACAO | VESPERTINO | INSTALACAO | Salário: R$ 100.00
+3 - Segundo Instalador | CPF: 45678901234 | Idade: 26 | INSTALACAO | MATUTINO | INSTALACAO | Salário: R$ 100.00
+5 - Instalador Console | CPF: 89012345678 | Idade: 21 | INSTALACAO | VESPERTINO | INSTALACAO | Salário: R$ 60.00
+ID para excluir:
+A conexão foi estabelecida!
+Funcionário excluído.
+1 - Cadastrar cliente
+2 - Listar clientes
+3 - Cadastrar fornecedor
+4 - Listar fornecedores
+5 - Cadastrar funcionário
+6 - Listar funcionários
+7 - Editar cliente
+8 - Excluir cliente
+9 - Editar fornecedor
+10 - Excluir fornecedor
+11 - Editar funcionário
+12 - Excluir funcionário
+0 - Voltar
+Opção:
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+Adeus amigo
+
+
+OK: Cadastrar produto pelo menu
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+Marca (:cancelar para voltar):
+Modelo:
+Largura:
+Altura:
+Profundidade:
+0 - AZUL_FORTE
+1 - AZUL_FRACO
+2 - BRANCO
+3 - CINZA
+Número da cor:
+0 - POLIETILENO
+1 - FIBRA_DE_VIDRO
+2 - INOX
+Número do material:
+Formato:
+Preço de venda:
+A conexão foi estabelecida!
+1 - Fornecedor Editado | CNPJ: 12345678901234
+ID do fornecedor (0 - sem fornecedor):
+A conexão foi estabelecida!
+Caixa cadastrada com estoque zero. Registre uma compra para abastecer.
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+Adeus amigo
+
+
+OK: Editar produto pelo menu
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+A conexão foi estabelecida!
+1 - Marca Editada / Modelo Editado | [3.0, 4.0, 5.0] | CINZA | POLIETILENO | Quadrado | R$ 80.00 | Estoque: 8 | Fornecedor: 1
+3 - Marca Console / Modelo Console | [1.0, 2.0, 3.0] | AZUL_FORTE | POLIETILENO | Redondo | R$ 10.00 | Estoque: 0 | Fornecedor: Não informado
+ID da caixa que deseja alterar:
+A conexão foi estabelecida!
+Marca (:cancelar para voltar):
+Modelo:
+Largura:
+Altura:
+Profundidade:
+0 - AZUL_FORTE
+1 - AZUL_FRACO
+2 - BRANCO
+3 - CINZA
+Número da cor:
+0 - POLIETILENO
+1 - FIBRA_DE_VIDRO
+2 - INOX
+Número do material:
+Formato:
+Preço de venda:
+A conexão foi estabelecida!
+1 - Fornecedor Editado | CNPJ: 12345678901234
+ID do fornecedor (0 - sem fornecedor):
+A conexão foi estabelecida!
+Caixa atualizada.
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+Adeus amigo
+
+
+OK: Excluir produto pelo menu
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+A conexão foi estabelecida!
+1 - Marca Editada / Modelo Editado | [3.0, 4.0, 5.0] | CINZA | POLIETILENO | Quadrado | R$ 80.00 | Estoque: 8 | Fornecedor: 1
+3 - Marca Nova / Modelo Novo | [3.0, 2.0, 1.0] | AZUL_FRACO | FIBRA_DE_VIDRO | Quadrado | R$ 20.00 | Estoque: 0 | Fornecedor: Não informado
+ID que deseja excluir:
+A conexão foi estabelecida!
+Caixa excluída.
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+Adeus amigo
+
+
+OK: Cancelar serviço pelo menu
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+1 - Agendar serviço
+2 - Listar serviços
+3 - Concluir serviço
+4 - Cancelar serviço
+0 - Voltar
+Opção:
+A conexão foi estabelecida!
+1 - Cliente Editado | CPF: 12345678901 | Idade: 26
+ID do cliente:
+A conexão foi estabelecida!
+A conexão foi estabelecida!
+1 - Marca Editada / Modelo Editado | [3.0, 4.0, 5.0] | CINZA | POLIETILENO | Quadrado | R$ 80.00 | Estoque: 8 | Fornecedor: 1
+ID da caixa-d'água:
+A conexão foi estabelecida!
+Data da instalação (AAAA-MM-DD):
+Preço do serviço:
+A conexão foi estabelecida!
+1 - Financeiro Editado | CPF: 23456789012 | Idade: 31 | ADMINISTRATIVO | NOTURNO | ADMINISTRATIVO | Salário: R$ 100.00
+2 - Instalador Teste | CPF: 34567890123 | Idade: 25 | INSTALACAO | VESPERTINO | INSTALACAO | Salário: R$ 100.00
+3 - Segundo Instalador | CPF: 45678901234 | Idade: 26 | INSTALACAO | MATUTINO | INSTALACAO | Salário: R$ 100.00
+ID do instalador:
+A conexão foi estabelecida!
+Adicionar outro instalador? 1 - Sim / 0 - Não
+A conexão foi estabelecida!
+Serviço agendado.
+1 - Agendar serviço
+2 - Listar serviços
+3 - Concluir serviço
+4 - Cancelar serviço
+0 - Voltar
+Opção:
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+Adeus amigo
+
+
+OK: Cancelar agendamento
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+1 - Agendar serviço
+2 - Listar serviços
+3 - Concluir serviço
+4 - Cancelar serviço
+0 - Voltar
+Opção:
+A conexão foi estabelecida!
+1 | Cliente: Cliente Editado | Produto: Modelo Editado | 2026-09-16 | R$ 200.00 | CONCLUIDO | Equipe: Instalador Teste (ID 2), Segundo Instalador (ID 3)
+4 | Cliente: Cliente Editado | Produto: Modelo Editado | 2026-09-15 | R$ 20.00 | CANCELADO | Equipe: Instalador Teste (ID 2), Segundo Instalador (ID 3)
+5 | Cliente: Cliente Editado | Produto: Modelo Editado | 2026-09-16 | R$ 300.00 | CONCLUIDO | Equipe: Instalador Teste (ID 2), Segundo Instalador (ID 3)
+6 | Cliente: Cliente Editado | Produto: Modelo Editado | 2026-09-16 | R$ 50.00 | AGENDADO | Equipe: Instalador Teste (ID 2)
+ID do serviço:
+A conexão foi estabelecida!
+Serviço cancelado.
+1 - Agendar serviço
+2 - Listar serviços
+3 - Concluir serviço
+4 - Cancelar serviço
+0 - Voltar
+Opção:
+ 0 - CADASTRAR CAIXA DE ÁGUA
+1 - EDITAR CAIXA DE ÁGUA
+2 - LISTAR CAIXAS DE ÁGUA
+3 - EXCLUIR CAIXA DE ÁGUA
+4 - SAIR
+5 - GESTÃO DE PESSOAS
+6 - SERVIÇOS
+7 - FINANCEIRO
+Adeus amigo
+
+TOTAL: 40 cenários de console aprovados.
