@@ -4,11 +4,16 @@ Programa de console para um trabalho acadêmico. Inclui cadastros de produtos,
 clientes, fornecedores e funcionários; estoque por compra/venda; instalação
 com equipe; salários, despesas, movimentações e saldo.
 
-## Executar neste computador
+## Requisitos e execução
 
 No IntelliJ IDEA, abra este projeto e execute a função `main()` de
 `src/Main.kt`. Use o JDK 21 e mantenha o driver PostgreSQL nas bibliotecas
-do módulo. A biblioteca `drivePostgres` já aponta para `D:/drivePostgres`.
+do módulo. O projeto foi configurado com a biblioteca `drivePostgres`
+apontando para `D:/drivePostgres`. Em outro computador, ajuste essa
+biblioteca para a pasta que contém o arquivo do driver JDBC PostgreSQL.
+
+Antes da primeira execução, instale o PostgreSQL e configure o banco conforme
+as instruções abaixo. Depois, execute `src/Main.kt`.
 
 Também é possível abrir um PowerShell nesta pasta e executar:
 
@@ -58,6 +63,42 @@ produtos pelos menus do programa.
 
 **Se o banco já estiver configurado, não execute o `schema.sql` novamente.**
 No computador em que o projeto foi desenvolvido, essa configuração já foi feita.
+
+## Menus
+
+### Menu principal
+
+```text
+0 - Gestão de caixas-d'água
+1 - Gestão de pessoas
+2 - Serviços
+3 - Financeiro
+4 - Sair
+```
+
+### Gestão de caixas-d'água
+
+Ao selecionar **0** no menu principal, abre-se o submenu:
+
+```text
+1 - Cadastrar caixa-d'água
+2 - Editar caixa-d'água
+3 - Listar caixas-d'água
+4 - Excluir caixa-d'água
+0 - Voltar
+```
+
+Depois de uma operação, o programa permanece nesse submenu.
+Selecione **0 — Voltar** para retornar ao menu principal.
+O estoque começa em zero e é movimentado pelas compras e vendas no Financeiro.
+
+### Outras áreas
+
+- **Gestão de pessoas:** cadastrar, listar, editar e excluir clientes,
+  fornecedores e funcionários.
+- **Serviços:** agendar, listar, concluir e cancelar instalações.
+- **Financeiro:** registrar compras e vendas, pagar salários e despesas,
+  listar movimentações e consultar o saldo.
 
 ## Roteiro para demonstrar
 
