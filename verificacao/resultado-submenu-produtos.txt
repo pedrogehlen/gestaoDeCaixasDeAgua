@@ -1,0 +1,112 @@
+0 - GESTÃO DE CAIXAS-D'ÁGUA
+1 - GESTÃO DE PESSOAS
+2 - SERVIÇOS
+3 - FINANCEIRO
+4 - SAIR
+Opção inválida!
+0 - GESTÃO DE CAIXAS-D'ÁGUA
+1 - GESTÃO DE PESSOAS
+2 - SERVIÇOS
+3 - FINANCEIRO
+4 - SAIR
+GESTÃO DE CAIXAS-D'ÁGUA
+1 - Cadastrar caixa-d'água
+2 - Editar caixa-d'água
+3 - Listar caixas-d'água
+4 - Excluir caixa-d'água
+0 - Voltar
+Opção:
+Informe um inteiro entre 0 e 4.
+Opção:
+Marca (:cancelar para voltar):
+Operação cancelada.
+GESTÃO DE CAIXAS-D'ÁGUA
+1 - Cadastrar caixa-d'água
+2 - Editar caixa-d'água
+3 - Listar caixas-d'água
+4 - Excluir caixa-d'água
+0 - Voltar
+Opção:
+A conexão foi estabelecida!
+1 - 1 / 1 | [1.0, 1.0, 1.0] | AZUL_FRACO | FIBRA_DE_VIDRO | 1 | R$ 1.00 | Estoque: 0 | Fornecedor: Não informado
+2 - Prudence / Sensivel | [240.0, 140.0, 120.0] | CINZA | INOX | Redondo | R$ 1500.00 | Estoque: 0 | Fornecedor: Não informado
+ID da caixa que deseja alterar:
+Operação cancelada.
+GESTÃO DE CAIXAS-D'ÁGUA
+1 - Cadastrar caixa-d'água
+2 - Editar caixa-d'água
+3 - Listar caixas-d'água
+4 - Excluir caixa-d'água
+0 - Voltar
+Opção:
+A conexão foi estabelecida!
+1 - 1 / 1 | [1.0, 1.0, 1.0] | AZUL_FRACO | FIBRA_DE_VIDRO | 1 | R$ 1.00 | Estoque: 0 | Fornecedor: Não informado
+2 - Prudence / Sensivel | [240.0, 140.0, 120.0] | CINZA | INOX | Redondo | R$ 1500.00 | Estoque: 0 | Fornecedor: Não informado
+GESTÃO DE CAIXAS-D'ÁGUA
+1 - Cadastrar caixa-d'água
+2 - Editar caixa-d'água
+3 - Listar caixas-d'água
+4 - Excluir caixa-d'água
+0 - Voltar
+Opção:
+A conexão foi estabelecida!
+1 - 1 / 1 | [1.0, 1.0, 1.0] | AZUL_FRACO | FIBRA_DE_VIDRO | 1 | R$ 1.00 | Estoque: 0 | Fornecedor: Não informado
+2 - Prudence / Sensivel | [240.0, 140.0, 120.0] | CINZA | INOX | Redondo | R$ 1500.00 | Estoque: 0 | Fornecedor: Não informado
+ID que deseja excluir:
+Operação cancelada.
+GESTÃO DE CAIXAS-D'ÁGUA
+1 - Cadastrar caixa-d'água
+2 - Editar caixa-d'água
+3 - Listar caixas-d'água
+4 - Excluir caixa-d'água
+0 - Voltar
+Opção:
+0 - GESTÃO DE CAIXAS-D'ÁGUA
+1 - GESTÃO DE PESSOAS
+2 - SERVIÇOS
+3 - FINANCEIRO
+4 - SAIR
+1 - Cadastrar cliente
+2 - Listar clientes
+3 - Cadastrar fornecedor
+4 - Listar fornecedores
+5 - Cadastrar funcionário
+6 - Listar funcionários
+7 - Editar cliente
+8 - Excluir cliente
+9 - Editar fornecedor
+10 - Excluir fornecedor
+11 - Editar funcionário
+12 - Excluir funcionário
+0 - Voltar
+Opção:
+0 - GESTÃO DE CAIXAS-D'ÁGUA
+1 - GESTÃO DE PESSOAS
+2 - SERVIÇOS
+3 - FINANCEIRO
+4 - SAIR
+1 - Agendar serviço
+2 - Listar serviços
+3 - Concluir serviço
+4 - Cancelar serviço
+0 - Voltar
+Opção:
+0 - GESTÃO DE CAIXAS-D'ÁGUA
+1 - GESTÃO DE PESSOAS
+2 - SERVIÇOS
+3 - FINANCEIRO
+4 - SAIR
+1 - Registrar venda
+2 - Registrar compra
+3 - Pagar salário
+4 - Pagar despesa
+5 - Listar movimentações
+6 - Mostrar saldo
+0 - Voltar
+Opção:
+0 - GESTÃO DE CAIXAS-D'ÁGUA
+1 - GESTÃO DE PESSOAS
+2 - SERVIÇOS
+3 - FINANCEIRO
+4 - SAIR
+Adeus amigo

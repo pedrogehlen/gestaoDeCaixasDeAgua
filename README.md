@@ -61,14 +61,14 @@ No computador em que o projeto foi desenvolvido, essa configuração já foi fei
 
 ## Roteiro para demonstrar
 
-1. Entre em **5 — Gestão de pessoas**.
+1. Entre em **1 — Gestão de pessoas**.
 2. Cadastre um funcionário do financeiro e um do setor de instalação.
 3. Cadastre um cliente e um fornecedor.
-4. Cadastre um produto pela opção **0**; seu estoque começa em zero.
-5. Entre em **7 — Financeiro → 2 — Registrar compra** para abastecer.
+4. Cadastre um produto em **0 — Gestão de caixas-d'água → 1 — Cadastrar caixa-d'água**; seu estoque começa em zero.
+5. Entre em **3 — Financeiro → 2 — Registrar compra** para abastecer.
    Informe o valor **total** da compra.
 6. Registre uma venda; o preço unitário vem do cadastro do produto.
-7. Em **6 — Serviços**, agende a instalação e escolha um ou mais instaladores.
+7. Em **2 — Serviços**, agende a instalação e escolha um ou mais instaladores.
 8. Conclua o serviço para registrar a receita.
 9. Demonstre pagamento de salário, despesa, listagem e saldo.
 10. Use **0** para voltar dos submenus e **4** para sair do menu inicial.

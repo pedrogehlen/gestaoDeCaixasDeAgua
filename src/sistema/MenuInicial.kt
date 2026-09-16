@@ -1,20 +1,14 @@
 package sistema
 
-import sistema.caixadeagua.cadastrarNovaCaixa
-import sistema.caixadeagua.listarCaixa
-import sistema.caixadeagua.editarCaixa
 
 fun menuInicial(){
 
     do{
-        println(" 0 - CADASTRAR CAIXA DE ÁGUA")
-        println("1 - EDITAR CAIXA DE ÁGUA")
-        println("2 - LISTAR CAIXAS DE ÁGUA")
-        println("3 - EXCLUIR CAIXA DE ÁGUA")
+        println("0 - GESTÃO DE CAIXAS-D'ÁGUA")
+        println("1 - GESTÃO DE PESSOAS")
+        println("2 - SERVIÇOS")
+        println("3 - FINANCEIRO")
         println("4 - SAIR")
-        println("5 - GESTÃO DE PESSOAS")
-        println("6 - SERVIÇOS")
-        println("7 - FINANCEIRO")
 
 
         val op : Int? = readln().toIntOrNull()?: 10
@@ -23,18 +17,15 @@ fun menuInicial(){
 
         try {
             when (op) {
-                0 -> cadastrarNovaCaixa()
-                1 -> editarCaixa()
-                2 -> listarCaixa()
-                3 -> excluirCaixa()
+                0 -> menuProduto()
+                1 -> menuPessoas()
+                2 -> menuServico()
+                3 -> menuFinanceiro()
                 4 -> {
                     println("Adeus amigo")
                     break
                 }
 
-                5 -> menuPessoas()
-                6 -> menuServico()
-                7 -> menuFinanceiro()
                 else -> println("Opção inválida!")
             }
         } catch (e: Exception) { mostrarErro(e) }
